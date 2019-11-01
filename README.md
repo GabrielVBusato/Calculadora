@@ -2,7 +2,7 @@
 
 <img src="/srcCalculator/img/calc.png"/>
 
-## Configuração para Desenvolvimento
+## Configuração para Instalação
 
 1. Clone o repositório https://github.com/GabrielVBusato/Calculadora.git;
 2. Instale o as dependências com o comando: npm install;
