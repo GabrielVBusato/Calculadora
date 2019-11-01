@@ -1,6 +1,6 @@
 ## Calculadora desenvolvida com react native para fins de estudo
 
-<img source="./srcCalculator/img/calc.png"/>
+<img source="/srcCalculator/img/calc.png"/>
 
 ## Configuração para Desenvolvimento
 
